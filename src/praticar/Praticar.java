@@ -13,7 +13,7 @@ public class Praticar {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Hola, estoy empezando de cero");
         
-        System.out.println("Soy diferente");
+        System.out.println("Mira");
         System.out.println("Cuantos años tienes?");
         
             Respuesta = entrada.nextDouble();
@@ -26,6 +26,6 @@ public class Praticar {
             }
         
        
-        
+        System.out.println("Saludos papito");
     }
 }
